@@ -10,7 +10,7 @@ def analyze_sentiment(text):
     return result
 
 def main():
-    st.title("Sentiment Analysis with Streamlit")
+    st.title("Sentiment Analysis by Amruta Adusumilli")
     st.write("This app uses a pre-trained model to analyze sentiment of the text you enter.")
 
     # Text input
